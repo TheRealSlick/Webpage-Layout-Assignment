@@ -1,0 +1,17 @@
+span {
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.bigfancypic {
+    width: 400px;
+    height: 400px;
+}
